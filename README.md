@@ -12,5 +12,5 @@ Desafio: Criação de um Phishing com Kali Linux - Bootcamp Cibersegurança #2 S
     Obtendo o endereço da máquina: ifconfig
     URL para clone: http://instagram.com
 
-    ![Texto Alternativo](./resultado.png)
+    ![alt text](https://github.com/pipocore/desafio-phishing/blob/main/resultado.png) "resultado")
     
